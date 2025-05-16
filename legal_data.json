@@ -1,0 +1,57 @@
+{
+  "legal_cases": [
+    {
+      "keywords": ["property", "land", "house", "eviction"],
+      "answer": "No. Landlord must give 1-month written notice. If forced out, file a complaint at the police station.",
+      "hi": "नहीं। मकान मालिक को 1-माह का लिखित नोटिस देना होगा। जबरदस्ती होने पर पुलिस में शिकायत करें।",
+      "te": "లేదు. యజమాని 1-నెల నోటీసు ఇవ్వాలి. బలవంతంగా తొలగిస్తే, పోలీస్ స్టేషన్లో ఫిర్యాదు చేయండి."
+    },
+    {
+      "keywords": ["farm", "land", "crop", "compensation"],
+      "answer": "Illegal! You must get compensation under Land Acquisition Act. Contact the District Collector with land records.",
+      "hi": "गैरकानूनी! भूमि अधिग्रहण कानून के तहत मुआवजा मिलना चाहिए।",
+      "te": "చట్టవిరుద్ధం! ల్యాండ్ అక్విజిషన్ చట్టం ప్రకారం మీకు పరిహారం ఇవ్వాలి."
+    },
+    {
+      "keywords": ["divorce", "child custody", "maintenance"],
+      "answer": "Family courts usually favor mothers for kids under 5. File a custody petition with marriage and child birth proofs.",
+      "hi": "5 साल से छोटे बच्चों की कस्टडी आमतौर पर माँ को मिलती है।",
+      "te": "5 సంవత్సరాల కంటే చిన్న పిల్లలకు తల్లులకే కస్టడీ ఇస్తారు."
+    },
+    {
+      "category": "Driving Offenses",
+      "keywords": ["fine","no license", "unlicensed", "under aged"],
+      "answer": "Driving without a license or underaged driving: 3 months or Rs.500 fine (Section 181).",
+      "hi": "बिना लाइसेंस या अवयस्क के वाहन चलाने पर: 3 महीने या 500 रुपये जुर्माना (धारा 181)",
+      "te": "లైసెన్స్ లేకుండా లేదా వయస్సు తక్కువగా ఉండి వాహనం నడపడం: 3 నెలల జైలు లేదా 500 రూపాయల జరిమానా (సెక్షన్ 181)"
+    },
+    {
+      "category": "Conductor Offenses",
+      "keywords": ["conductor license", "ticket issuance"],
+      "answer": "Failure to issue ticket: Rs.500 fine (Section 178(2)).",
+      "hi": "टिकट जारी न करने पर: 500 रुपये जुर्माना (धारा 178(2))",
+      "te": "టికెట్ జారీ చేయకపోతే: 500 రూపాయల జరిమానా (సెక్షన్ 178(2))"
+    },
+    {
+      "category": "Speeding Offenses",
+      "keywords": ["rash driving","over-speeding", "speed limit", "speeding"],
+      "answer": "Over-speeding: First offense Rs.1000, subsequent Rs.2000 (Section 183).",
+      "hi": "ओवरस्पीडिंग: पहली बार 1000 रुपये, बाद में 2000 रुपये (धारा 183)",
+      "te": "ఓవర్ స్పీడింగ్: మొదటి నేరం 1000 రూపాయలు, తర్వాత 2000 రూపాయలు (సెక్షన్ 183)"
+    },
+    {
+      "category": "Land Rights",
+      "keywords": ["land dispute", "property boundary", "encroachment"],
+      "answer": "File a civil suit under the Land Disputes Act for unauthorized encroachment.",
+      "hi": "अनधिकृत अतिक्रमण के लिए भूमि विवाद अधिनियम के तहत सिविल मामला दर्ज करें।",
+      "te": "అనధికార ఆక్రమణకు భూ వివాదాల చట్టం కింద సివిల్ కేసు వేసుకోండి."
+    },
+    {
+      "category": "Land Acquisition",
+      "keywords": ["land acquisition", "compensation", "eviction"],
+      "answer": "Compensation must be provided under the Land Acquisition Act, 2013.",
+      "hi": "2013 के भूमि अधिग्रहण अधिनियम के तहत मुआवजा प्रदान किया जाना चाहिए।",
+      "te": "2013 భూ స్వాధీన చట్టం ప్రకారం పరిహారం ఇవ్వాలి."
+    }
+  ]
+}
